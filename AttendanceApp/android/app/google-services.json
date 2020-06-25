@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "196619200851",
+    "firebase_url": "https://swift-firmament-275012.firebaseio.com",
+    "project_id": "swift-firmament-275012",
+    "storage_bucket": "swift-firmament-275012.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196619200851:android:c3ed2f464f7399fcf319a6",
+        "android_client_info": {
+          "package_name": "com.attendanceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196619200851-89iup7rien9rccb2t10qct8klmmvsasm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgRRarcf2OIWBYM47vBQAjI2_V9Kpvobg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196619200851-89iup7rien9rccb2t10qct8klmmvsasm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+export const GET_POSITION_ROOM = 'GET_POSITION_ROOM';
